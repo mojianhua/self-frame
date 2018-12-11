@@ -1,0 +1,15 @@
+{
+	"name": "Toyutomi PHP",
+	"description": "Toyutomi PHP Framework",
+	"type": "Toyutomi PHP Framework",
+	"keywords":[
+		"PHP","PHP Framework"
+	],
+	"require":{
+		"php":">= 7.0",
+		"filp/whoops":"*",
+		"symfony/var-dumper":"*",
+		"catfan/medoo":"*",
+		"twig/twig":"*"
+	}
+}
